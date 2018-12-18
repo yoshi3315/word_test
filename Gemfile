@@ -42,3 +42,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'nokogiri', '1.9.1'
 gem 'annotate'
+gem 'bootstrap-sass'
