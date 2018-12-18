@@ -65,3 +65,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # 追加分
 
 gem 'nokogiri', '1.9.1'
+gem 'annotate'
