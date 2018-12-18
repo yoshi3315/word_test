@@ -20,7 +20,7 @@ module WordTest
 
     # 翻訳ファイルのディレクトを追加する場合は、次の行のコメントを外しパスを追加してください。
     config.i18n.load_path += Dir[Rails.root.join('config', 'locales', '**', '*.{rb,yml}').to_s]
-    
+
     config.time_zone = 'Tokyo'
     config.active_record.default_timezone = :local
   end
